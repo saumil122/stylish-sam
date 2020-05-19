@@ -3,9 +3,11 @@ The Dashboard System/Admin Panel is based on Bootstrap 4, Javascript, jQuery, SC
    
 # Benefits:
 
-- Easy to change look & feel of dashboard system/admin panel.
+- Easy to change look & feel of dashboard system/admin panel. 
+- Currently there are four different color variation.
 - All bootstrap components are supported.
 - The responsive version needs to be check in actual device (Check & update in next release.)
+- I have uploaded compiled HTML files here. Actually I built this admin panel in PHP (on my local system).
 
 # Collections:
 
