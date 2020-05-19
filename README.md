@@ -25,3 +25,8 @@ The Dashboard System/Admin Panel is based on Bootstrap 4, Javascript, jQuery, SC
 # Preview:
 
 ![](all-screens.gif)
+
+# Colour Variation:
+
+![](variation.gif)
+
