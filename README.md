@@ -19,3 +19,7 @@ The Dashboard System/Admin Panel is based on Bootstrap 4, Javascript, jQuery, SC
 - Modal
 - Charts (Line chart, Bar chart, Pie chart, Donut chart, Radar chart & Polar chart)
 - Carousel
+
+# Preview:
+
+![](screenshots/dashboard.png)
